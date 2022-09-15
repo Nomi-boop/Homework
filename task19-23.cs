@@ -21,7 +21,7 @@ else Console.WriteLine($"Введи правильное число");
 
 // Задача 21: Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 3D пространстве.
 
-Console.WriteLine("\n Задача 21");
+Console.WriteLine("Задача 21");
 int x1 = Coordinate("x", "A");
 int y1 = Coordinate("y", "A");
 int z1 = Coordinate("z", "A");
